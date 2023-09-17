@@ -1,0 +1,15 @@
+.swiper-wrapper {
+    display: flex;
+}
+
+.swiper-wrapper {
+    .swiper-slide {
+        opacity: 0.3;
+    }
+    .swiper-slide-active {
+        opacity: 1;
+    }
+    img {
+        border-radius: 30px;
+    }
+}

@@ -1,0 +1,853 @@
+{
+    "products": [
+        {
+            "chapter": "Наборы",
+            "items": [
+                {
+                    "id": 1,
+                    "img": "https://yobi.efood.dev/images/INg_BjqYHIgXjOcbR8KN2TAxFpzUNHmFCGrRxFSjVU0/pr:large/YzB0OW9leTE0djcw/ZWltem5zNXNmbGlk/c3FlOA",
+                    "title": "Госпожа Окусама",
+                    "description": "Щедрая госпожа знает, как ты любишь рыбку: бери сет, в котором 4 вида роллов — и все с лососем.",
+                    "gram": 790,
+                    "price": 1149
+                },
+                {
+                    "id": 2,
+                    "img": "https://yobi.efood.dev/images/_6hNQuCCUcS1kiq0xBROZ3KrxTDUYvqgn6P365TZV-I/pr:large/MXV2MTNqcmc4NGhv/dGN0bG03NmxyN2Vx/cXJuMA",
+
+                    "title": "Большой Окинаху",
+                    "description": "Размер имеет значение — 24 ролла с рыбой и крабом на троих.",
+                    "gram": 595,
+                    "price": 799
+                },
+                {
+                    "id": 3,
+                    "img": "https://yobi.efood.dev/images/_V3QLVj_qG5W-53rFFdCJndYq6p-LfVwC6-6jvZ_dwY/pr:medium/c2FjaGg3b2k0eWZm/bGN5eWhrcnM5emE5/bzQ1dQ",
+
+                    "title": "Резвый Хаяку",
+                    "description": "Не жди повода: Резвый Хаяку готов радовать тебя сочным лососем каждый день.",
+                    "gram": 605,
+                    "price": 949
+                },
+                {
+                    "id": 4,
+                    "img": "https://yobi.efood.dev/images/wIsJFqNGrF9HFBbvw2EEKAnXaRZExPeqdIrdaZiPrXQ/pr:medium/MWd4OTZyMm5rc3pw/bXZhbDBuaTR5Nzc2/OGF3MQ",
+
+                    "title": "Классный Сутэки",
+                    "description": "Реально кайфовый сет с лососем для романтического вечера со второй половинкой.",
+                    "gram": 485,
+                    "price": 799
+                },
+                {
+                    "id": 5,
+                    "img": "https://yobi.efood.dev/images/5zFtvtQ0QQPVGOtOaTpKLTFWPU_-YpDRK_HkHoTYgDE/pr:medium/dGdudHhpdnlsaHB6/b2p3NHh6d2JsaDJs/cTF2dw",
+
+                    "title": "Лёгкий Ясаши",
+                    "description": "Два вида роллов с лососем и две порции суши — повод устроить перерыв в японском стиле с коллегой.",
+                    "gram": 490,
+                    "price": 749
+                },
+                {
+                    "id": 6,
+                    "img": "https://yobi.efood.dev/images/HQ6eWoVsPLQHrly02HRt8sVaqBwoOqHTlAYGrCqdNNs/pr:medium/ZGE4d2ZzNjFrNWN0/YTR6Zzc2eTBybnZi/NW5nbA",
+
+                    "title": "Куни Ли",
+                    "description": "Цезарь BIG, Цезарь темпура, Лава сяке темпура, Спейшл NEW, Киото, Тори маки, Краб терияки",
+                    "gram": 1940,
+                    "price": 1649
+                },
+                {
+                    "id": 7,
+                    "img": "https://yobi.efood.dev/images/wtCco5qLkJQ1bjfujO_v7GcpSz4OJcmohRwZPrsElv4/pr:medium/YjRtYzgwdjk0cGE3/ODRhZ3BjOHd0aTRk/bHdvZg",
+
+                    "title": "Бич",
+                    "description": "Каппа маки, Цезарь темпура, Лава темпура, Тамаго маки, Филадельфия лосось лайт.",
+                    "gram": 1010,
+                    "price": 999
+                },
+                {
+                    "id": 8,
+                    "img": "https://yobi.efood.dev/images/VzFe8k-inDX5S7SgaaqCPFNxAaa1ajz3z4oJFRHBGac/pr:medium/aWE0Ym83MnQxaXNj/NTMzcTRpcHd2c3Ex/dDVyeQ",
+
+                    "title": "Корпоративный",
+                    "description": "Сяке кунсей маки, Цезарь XL, Гейша, Краб Терияки, Яссай, Сэндвич с курицей, Лава Темпура, Спейшл NEW",
+                    "gram": 1865,
+                    "price": 1649
+                },
+                {
+                    "id": 9,
+                    "img": "https://yobi.efood.dev/images/S2HNp9HTZfdBDBZBiHgM9A8XWr7wMZEDDvRlx929GlI/pr:medium/cDNlaWdmM2dhOHA4/ODI1OGNyb2E1dXB0/ejFoZA",
+
+                    "title": "ЁбиСуёби",
+                    "description": "Филадельфия лосось лайт, Цезарь темпура, Тортилья овощная, Калифорния темпура, Спейшл NEW",
+                    "gram": 1110,
+                    "price": 1149
+                },
+                {
+                    "id": 10,
+                    "img": "https://yobi.efood.dev/images/p1bSBxf0yRWCuB7q8mmNoPsvg4BjhrXmIjQ4N1QCJMs/pr:medium/bGJza3Zjc2xpd3Fy/YmplN3pma2VrZWRl/NHNlNw",
+
+                    "title": "Хикоки",
+                    "description": "Тамаго маки, Яссай спайс, Цезарь BIG. Лава темпура, Страстный угорь, Похотливый краб",
+                    "gram": 1215,
+                    "price": 1149
+                },
+                {
+                    "id": 11,
+                    "img": "https://yobi.efood.dev/images/h1iSVpCvP_u56LK0rLQCg1Lu10R6dQmBPTvtAGcI67I/pr:medium/dWxoNDRnZmQ5NnBw/cmN1bWF4ejEzaG52/YXJhaA",
+
+                    "title": "Горячий секрет",
+                    "description": "Цезарь темпура, Цезарь BIG. Филадельфия темпура, Сяке темпура, Эби темпура",
+                    "gram": 1175,
+                    "price": 1249
+                },
+                {
+                    "id": 12,
+                    "img": "https://yobi.efood.dev/images/5XN603L-1N6jfNys_8jQnRREqMBwWcqmKw0qNgbdwuQ/pr:medium/YWZwb3hsaDJ5enl1/ejJjb25sY2Vkdzdj/MTZrbQ",
+
+                    "title": "Си Сяке",
+                    "description": "Яссай, Лава темпура, Спейшл NEW, Цезарь BIG, Запечённый с лососем NEW, Ямаха, Тори маки",
+                    "gram": 1915,
+                    "price": 1649
+                },
+                {
+                    "id": 13,
+                    "img": "https://yobi.efood.dev/images/lRo8iLnbyhfYpIgo9Y9ItALX4f4p9ow2aAlVn4CgvdM/pr:medium/ZTZiZzhzajlqdjdr/YTBtOWtiNXI1YjE3/MWp2OA",
+
+                    "title": "Си Сяке",
+                    "description": "Цезарь, Цезарь темпура, Цезарь BIG",
+                    "gram": 790,
+                    "price": 649
+                },
+                {
+                    "id": 14,
+                    "img": "https://yobi.efood.dev/images/i56SlozA0gx65-JNmgrzfOmXlS5ihDGEhj5bI1hE_EU/pr:medium/Z29rdGE5NmU2OTU1/enRkaHBwZTV0dHp6/ZWVrYg",
+
+                    "title": "Темпура Хит",
+                    "description": "Филадельфия темпура, Лава темпура, Калифорния темпура",
+                    "gram": 685,
+                    "price": 799
+                },
+                {
+                    "id": 15,
+                    "img": "https://yobi.efood.dev/images/dV2HGW6Q1C0FHVK6lvul_rkPdtrJK33UwBkAjnt6TRY/pr:medium/MTN2bzEwYjJ1d3hi/NnBoMG55emFwY2xh/b3psdQ",
+
+                    "title": "Сукияма",
+                    "description": "Пылкая креветка, Ика темпура, Цезарь темпура, Филадельфия темпура, Цезарь, Страстный угорь, Филадельфия лосось лайт, Филадельфия Эби лайт, Сяке кюри маки, Тортилья овощная, Авокадо маки, Каваи, Эби темпура",
+                    "gram": 2730,
+                    "price": 2999
+                },
+                {
+                    "id": 16,
+                    "img": "https://yobi.efood.dev/images/xiR0YyK4KJLzpRpNdH_4bQ-aLIJeQqGRtwrz3BcqXRs/pr:medium/M3l1MzVmaW1kaTBx/YWY0cWljZngzNmR2/dnNwaQ",
+
+                    "title": "Люба",
+                    "description": "Филадельфия лосось лайт х2, Филадельфия с лососем холодного копчения лайт, Цезарь х2, Яссай, Каваи, Тамаго маки, Лава эби",
+                    "gram": 1885,
+                    "price": 2249
+                },
+                {
+                    "id": 17,
+                    "img": "https://yobi.efood.dev/images/7ml0xlY0LS0xeg5zswsIg7zXgbFSrktp0sKb51EFl7w/pr:medium/bHludWZncnNka2dw/cHVkMjltcHN4eHpq/ZmZjbg",
+
+                    "title": "Экспресс №1",
+                    "description": "Филадельфия с огурцом, Филадельфия с луком, Цезарь темпура, Эби темпура",
+                    "gram": 955,
+                    "price": 1799
+                },
+                {
+                    "id": 18,
+                    "img": "https://yobi.efood.dev/images/-eINSecqxEYkuG3YwOoq1fW9QdLUYEPYNLD32Q8GnXw/pr:medium/M3hxd2x0c3RuNXk5/ZWNwOWs5cGxpZ2Jj/amg5Zw",
+
+                    "title": "Игорь",
+                    "description": "Филадельфия с огурцом, Лава сяке, Цезарь темпура",
+                    "gram": 725,
+                    "price": 1149
+                },
+                {
+                    "id": 19,
+                    "img": "https://yobi.efood.dev/images/FLZ509U_dGKWixpAmFlbkZiE_4JIwP2x-9UYxi4kYf0/pr:medium/OHlyYnQxNGx6Ymth/bWZsZjh3Y2gxYnN3/a2phYg",
+
+                    "title": "Счастье",
+                    "description": "Сяке, Чука гункан, Рейдзи, Каваи, Филадельфия лосось лайт, Лава сяке",
+                    "gram": 980,
+                    "price": 1349
+                },
+                {
+                    "id": 20,
+                    "img": "https://yobi.efood.dev/images/qww7ZMV6wGFW-egUd5mo2nmMY5wPHNGnh-Sy3hz8RiA/pr:medium/M3Uwd3JwN2FjenVs/ZThoNm1jZmlneHZw/ZTRvbw",
+
+                    "title": "ЁбиМокуёби",
+                    "description": "Сяке хат, Филадельфия темпура, Бешеный лосось",
+                    "gram": 710,
+                    "price": 1049
+                },
+                {
+                    "id": 21,
+                    "img": "https://yobi.efood.dev/images/30-N-USirYl1UPxfVisHDZ6UtzEEcG5NzoU4tpI82LI/pr:medium/MjZ5ZGNyOWpvYjNk/Mmd2bTFjOXFvdHpr/aWN6OQ",
+
+                    "title": "Веджи",
+                    "description": "Авокадо маки, Каппа маки, Чука гункан, Яссай",
+                    "gram": 535,
+                    "price": 549
+                },
+                {
+                    "id": 22,
+                    "img": "https://yobi.efood.dev/images/xs-Vsoic2zBqPLuw9tzAyLislD2Hx55oRtYJ8u7fneE/pr:medium/dHg2bDduMGpsMWlh/eTQzZ2Z0ZnIwODFl/aDJmdA",
+
+                    "title": "Фила Хит",
+                    "description": "Филадельфия лосось лайт, Филадельфия с копчёным лососем лайт, Филадельфия темпура, Филадельфия эби лайт",
+                    "gram": 905,
+                    "price": 1499
+                },
+                {
+                    "id": 23,
+                    "img": "https://yobi.efood.dev/images/cCfzzUnK5s_i2j8rOP-SICycfmj1fz0JPoiYYNlcCsc/pr:medium/cTdoeTJoa3licXhn/MndiZ3M3bmQwYjB1/enFhcQ",
+
+                    "title": "ЁбиНитиёби",
+                    "description": "Кокоро, Филадельфия лосось лайт, Лава сяке, Филадельфия унаги, Каппа маки, Тамаго маки",
+                    "gram": 1120,
+                    "price": 1949
+                },
+                {
+                    "id": 24,
+                    "img": "https://yobi.efood.dev/images/C0s6yDJGDvu1l6wm84rMMB2PQGvqvBRJOlmW9cHRm2A/pr:medium/a2NhODAwNGM3b2Iz/eHRpZ2NicGU3ajBn/eHV4ag",
+
+                    "title": "ЁбиГэцуёби",
+                    "description": "Ика темпура, кироки, такара, спейшл NEW, гейша",
+                    "gram": 1080,
+                    "price": 1349
+                },
+                {
+                    "id": 25,
+                    "img": "https://yobi.efood.dev/images/M2oBgFqYhtOoRWAGqdhc1MBap6p9DbNY1DMxTKXZo4Y/pr:medium/OHg2M3Vub3hwZ29p/Zm9xaDBkOHZhcGc4/Z3Nyag",
+
+                    "title": "Сакура",
+                    "description": "Каваи, Цезарь, Лава сяке, Яссай",
+                    "gram": 835,
+                    "price": 899
+                },
+                {
+                    "id": 26,
+                    "img": "https://yobi.efood.dev/images/fC9W4al9b2Ed9_1UoN6j4giKIeDZMuJV4mNmPXQhhDY/pr:medium/d3o3OWpsZmdpdTYz/aHIwYmUyYjhmNWwy/eWdycQ",
+
+                    "title": "Клава",
+                    "description": "Лава сяке, Лава темпура",
+                    "gram": 475,
+                    "price": 599
+                }
+            ]
+        },
+        {
+            "chapter": "Ролы и суши",
+            "items": [
+                {
+                    "id": 27,
+                    "img": "https://yobi.efood.dev/images/OvZkuYtZhQlvJg3s1aya-FBjmKcMvo7ZkAPkDAJib5U/pr:medium/cWtyZjY1ajIzMHIz/YXhsMGhxcDg3ZHBl/ZHZoeg",
+                    "title": "Яркий лосось",
+                    "description": "Лосось жареный, морковь в темпуре, лук зелёный, соус лава, кальмар, кунжут чёрнй, кунжут белый, рис, нори.",
+                    "gram": 195,
+                    "price": 349
+                },
+                {
+                    "id": 28,
+                    "img": "https://yobi.efood.dev/images/V3YDGFITRnGAuzIpAluiL72-a1KSSTB1VJ0hUh4Bttg/pr:medium/dmI4N2dxemp1ODV4/c242dzZieGo5cmR6/Zmc4bA",
+                    "title": "Лосось с тобико",
+                    "description": "Лосось жареный, сыр сливочный, тобико, рис, нори",
+                    "gram": 185,
+                    "price": 349
+                },
+                {
+                    "id": 29,
+                    "img": "https://yobi.efood.dev/images/BGPRp8VneLX4ZrdSlCYdVVR-_RUZYYS72PoLaGCIeCI/pr:medium/eXpuNDlvcWx6dXli/dTFteG91anNyY2xw/YTB0MQ",
+                    "title": "Нежный лосось",
+                    "description": "Лосось, морковь в темпуре, огурец, соус терияки, кранч-лук, майонез, рис, нори",
+                    "gram": 230,
+                    "price": 249
+                },
+                {
+                    "id": 30,
+                    "img": "https://yobi.efood.dev/images/aKZqREr4NbnEAAGiDhlbMPAToh_JYEY5Km92GH3B-B0/pr:medium/bnhjejZiejI5bjc2/Y3Y1MTg3azN4Z2d6/OXQzbA",
+                    "title": "Урамаки с лососем и авокадо",
+                    "description": "Лосось, авокадо, соус спайс, микрозелень, рис, нори",
+                    "gram": 170,
+                    "price": 249
+                },
+                {
+                    "id": 31,
+                    "img": "https://yobi.efood.dev/images/wnupmaKWGqicWIGIri6yRnbKRaUY9XxaCTjmmhkbrQ4/pr:medium/ZnIzYzlwM2MxaG83/bWplcG50OHp2bXd0/aDg4NA",
+                    "title": "Ойси сяке",
+                    "description": "Лосось, соус лава, кальмар, рис, нори",
+                    "gram": 160,
+                    "price": 249
+                },
+                {
+                    "id": 32,
+                    "img": "https://yobi.efood.dev/images/0bBCQ5j98YhlwYLZLEFyXuqYyGRc67EucwTRCXwf_EQ/pr:medium/YmhmbjFyaW5ubDFo/NzZ3MzJhZjM4Y3Ju/bTIweA",
+                    "title": "Филадельфия лосось лайт",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, огурец, лосось",
+                    "gram": 230,
+                    "price": 339
+                },
+                {
+                    "id": 33,
+                    "img": "https://yobi.efood.dev/images/7Ta3xIOszKsAEtfS_5h4H84wj0ySFD9fDYL7KgWlc-I/pr:medium/MmVuOW9ndWc0NGQ1/bnk1N3c5Z2V0aHpp/aDM3OQ",
+                    "title": "Филадельфия с огурцом",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, огурец, лосось",
+                    "gram": 270,
+                    "price": 649
+                },
+                {
+                    "id": 34,
+                    "img": "https://yobi.efood.dev/images/Fk7R6BqxQm8t_ujamFTj7awSP6SgDVOyFpRQULRUTtk/pr:medium/Mnl6MnMzNGRuZXMx/MzVjdDZzNXA1NXk0/MXBmaw",
+                    "title": "Лава эби",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, кальмар, салат, огурец, сыр сливочный, тобико, майонез, креветка",
+                    "gram": 215,
+                    "price": 299
+                },
+                {
+                    "id": 35,
+                    "img": "https://yobi.efood.dev/images/UPOx04ljCxAwW6XTp3KLCekYGKlXbrkqUs4m2a24RCk/pr:medium/Z3ZvbnRraWY5b2Zj/bHJ6MGtzcG5sMzU4/MXo0aw",
+                    "title": "Калифорния",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, майонез, авокадо, снежный краб, тобико",
+                    "gram": 205,
+                    "price": 349
+                },
+                {
+                    "id": 36,
+                    "img": "https://yobi.efood.dev/images/50MPJ3Bh4rQ5jIk-gWy8eRf_CA45Ey0lnIfRT1Xh-Ko/pr:medium/Z2lucjh6eTRubnRi/eXM0N2lqa3dkd3kx/ZWx1cg",
+                    "title": "Цезарь с креветкой",
+                    "description": "Рис, мицукан, комбу, соль, сахар, нори,майонез, чеснок, соевый соус, огурец маринованный, креветка, мука, яйцо, микрозелень",
+                    "gram": 190,
+                    "price": 299
+                },
+                {
+                    "id": 37,
+                    "img": "https://yobi.efood.dev/images/zUql8iOsrDbIxHJmISJMKu0sBKqb3SSmbNA3RRdmMOg/pr:medium/eDVoYW1sbW0zbXlu/Zm42MDJxbzNlN2Vj/eTBzZw",
+                    "title": "Лава сяке",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, огурец, лосось, снежный краб, сыр сливочный, кальмар, тобико, майонез",
+                    "gram": 215,
+                    "price": 349
+                },
+                {
+                    "id": 38,
+                    "img": "https://yobi.efood.dev/images/nMlKECLC4l7wzRv-ZxbOf62jDdfXoLrmAzrWJYUixDs/pr:medium/aXFqeWw3Z3dqbHhr/ZmQ2dGh1cjQ1ZHln/OGh3eQ",
+                    "title": "филадельфия эби лайт",
+                    "description": "Рис,митцукан,сахар,комбу,соль,нори,креветка,сыр сливочный,огурцы",
+                    "gram": 230,
+                    "price": 349
+                },
+                {
+                    "id": 39,
+                    "img": "https://yobi.efood.dev/images/Tl3k_KxecgIfzoyMwfieV97x7uwW48czX9YVT2JHbyE/pr:medium/MHd2dWNodHdsOHRs/dXF2N3huam92ZXln/aTZjdg",
+                    "title": "Сяке кюри маки",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, лосось, огурец",
+                    "gram": 135,
+                    "price": 249
+                },
+                {
+                    "id": 40,
+                    "img": "https://yobi.efood.dev/images/slCW3AY6OfZkJ-x41SHbCn01ONOqWdkImDf13jvdwe8/pr:medium/N2V2dGJiM201YXc5/MmlpYnBrc3ZycHRo/M3Vncg",
+                    "title": "Цезарь",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, салат, майонез, чеснок, соевый соус, огурец консервированный, филе куриное, приправа для курицы, помидор",
+                    "gram": 210,
+                    "price": 199
+                },
+                {
+                    "id": 41,
+                    "img": "https://yobi.efood.dev/images/F40dzI1vFeEvYrvOjC7eiJXuop8amRzkM6PzqyLFJx0/pr:medium/dGJyYnM2NG0zaThv/c2g3a2k0N29vNGRk/NXUzMw",
+                    "title": "Эби маки",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, салат, сыр сливочный, креветка, тобико",
+                    "gram": 160,
+                    "price": 299
+                },
+                {
+                    "id": 42,
+                    "img": "https://yobi.efood.dev/images/Q6P0nXOe9ujn1nv1X9puvQG4IWc0diSB9OIe3vycAq8/pr:medium/cTFvbTllejF2Yno5/bjMxNTcxaWNuMTVw/NHYwdQ",
+                    "title": "Сяке маки",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, лосось",
+                    "gram": 130,
+                    "price": 249
+                },
+                {
+                    "id": 43,
+                    "img": "https://yobi.efood.dev/images/9kH-NczL7CwFnl5drTvDVBo5R1h00BrjHx-fHs2P_FQ/pr:medium/NXBqY3E3bG00aGc3/dzhneXkzMjQ3MnAx/a2hwbQ",
+                    "title": "Каппа маки",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, огурец, кунжут белый",
+                    "gram": 130,
+                    "price": 99
+                },
+                {
+                    "id": 44,
+                    "img": "https://yobi.efood.dev/images/2laMu4JsanEeWwMP62mCEhNKXf4MttDFhIL74aF1nS0/pr:medium/dzhkZG1tcWMyZmY2/bmloMDhsM3FyMHlx/YXJteg",
+                    "title": "Каваи",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, тобико, сыр сливочный, огурец, снежный краб, майонез, паста кимчи",
+                    "gram": 249,
+                    "price": 99
+                },
+                {
+                    "id": 45,
+                    "img": "https://yobi.efood.dev/images/QyfThHoicbEdlWq1Dcoi3MLbb-G2KNKbxQLnox8pCm4/pr:medium/dGR6amFnMzM1MHBh/cnhuYW9tdzRmNndx/empoeA",
+                    "title": "Абогадо сяке",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, лосось, авокадо, соус унаги, майонез, кунжут чёрный",
+                    "gram": 399,
+                    "price": 99
+                },
+                {
+                    "id": 46,
+                    "img": "https://yobi.efood.dev/images/SoOiLTveCpMWWcrUvPdy6rlILSFiKT-mFMgWttnziDo/pr:medium/YjN5N2tqNTlucjRw/dHY3ajh1OW9ieDFm/dWNpZw",
+                    "title": "Похотливый краб",
+                    "description": "Снежный краб, майонез, лосось, огурец, тобико",
+                    "gram": 65,
+                    "price": 199
+                },
+                {
+                    "id": 47,
+                    "img": "https://yobi.efood.dev/images/24ZqVykD_DoO5oaldmiuWoIgJYL1kXCMJumxZHMq2M4/pr:large/b3FoY2JsYmJidmZx/ZzAwM3RvOGtmMGdj/cDZpeQ",
+                    "title": "Филадельфия с луком",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, лук зелёный, лосось",
+                    "gram": 255,
+                    "price": 649
+                },
+                {
+                    "id": 48,
+                    "img": "https://yobi.efood.dev/images/SoOiLTveCpMWWcrUvPdy6rlILSFiKT-mFMgWttnziDo/pr:medium/YjN5N2tqNTlucjRw/dHY3ajh1OW9ieDFm/dWNpZw",
+                    "title": "Страстный угорь",
+                    "description": "Рис, мицукан, сыр сливочный, угорь, авокадо, тобико, соус унаги, перец чили, лук кранч, кунжут белый",
+                    "gram": 185,
+                    "price": 249
+                },
+                {
+                    "id": 49,
+                    "img": "https://yobi.efood.dev/images/QWAnyp7FlFJBCbMDIKl4bsYsRguHjlSgXjS7wPiaOaw/pr:large/ZnQ3c21jbm05Z2po/MTF6aXdtbThqb3Q2/a2piZg",
+                    "title": "Филадельфия с лососем холодного копчения лайт",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, огурец, лосось холодного копчения, сыр сливочный",
+                    "gram": 230,
+                    "price": 449
+                },
+                {
+                    "id": 50,
+                    "img": "https://yobi.efood.dev/images/gO5DE-HsKV25jL5Ck32fQ6TG2Xswx-7mpNA2_TKtZ-I/pr:large/cWRpMG45am9raHQy/ODE1b2J5MWZha3Jo/aXFiYg",
+                    "title": "Сяке кунсей маки",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, лосось холодного копчения, огурец, сыр сливочный, лук зелёный, майонез, паста кимчи",
+                    "gram": 170,
+                    "price": 299
+                },
+                {
+                    "id": 51,
+                    "img": "https://yobi.efood.dev/images/AQKod09XcBUHMNWo4OBgzLXv8-u-95B1jUYNmIsrukM/pr:large/aWo2bXA0YzFpZ3Vo/MXFwMW9jdzlmMm9i/OTR2OQ",
+                    "title": "Унаги маки",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, огурец, угорь, кунжут белый, соус унаги",
+                    "gram": 140,
+                    "price": 249
+                },
+                {
+                    "id": 52,
+                    "img": "https://yobi.efood.dev/images/5EAzqFNNzc_1Bml5ldJ-IWifpEh6vwblZJW_4CkQADw/pr:large/eWhlOTZmcjNzczB6/aHJhZ2RmNTNpeHVw/cTIyeA",
+                    "title": "Тамаго маки",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, яйцо, соевый соус, куркума, огурец, соус унаги, кунжут белый",
+                    "gram": 150,
+                    "price": 99
+                },
+                {
+                    "id": 53,
+                    "img": "https://yobi.efood.dev/images/SNAWY2q3w-96Eu7McdATdk8L9gJeabZMQP3-xUCQcd8/pr:large/amlqeDVvZmk5YTh6/OHpmOWJramo5YmNs/a3VxNw",
+                    "title": "Икура маки",
+                    "description": "Рис, мицукан, сахар, комбу ,соль, нори,сыр сливочный, лосось, соль, яйцо, крахмал, мирин, икра лососевая, майонез",
+                    "gram": 230,
+                    "price": 399
+                }
+            ]
+        },
+        {
+            "chapter": "Премиум",
+            "items": [
+                {
+                    "id": 54,
+                    "img": "https://yobi.efood.dev/images/pIF8v282TCTPadFs3WDsb8z2fq15702bBxzm8tT_V6U/pr:large/M3pyaTl1czlsbnh0/Nmt4aTdpcnBjd2t2/aWFpeA",
+                    "title": "Филадельфия 'Люкс'",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, огурец, лосось, икра лососевая",
+                    "gram": 305,
+                    "price": 799
+                },
+                {
+                    "id": 55,
+                    "img": "https://yobi.efood.dev/images/2pxyREbT6zjb7yizCQQ3AZqV8MiLv70IWkkc6pgST2E/pr:medium/cG16cTBybXI3bnU5/bjVuYnY1NHMwOWFk/NWp5aQ",
+                    "title": "Флорида",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, огурец, креветка, тобико",
+                    "gram": 295,
+                    "price": 599
+                },
+                {
+                    "id": 56,
+                    "img": "https://yobi.efood.dev/images/F_32imM3lOprUD62GBZr_o8y0QI6I3k-QNtQZBJGbcQ/pr:medium/ODE3c2o3c3hnajgw/MGowdTY1ZHlqb3Np/aHdkNA",
+                    "title": "Филадельфия 'Роял'",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, огурец, лосось, икра лососевая, снежный краб",
+                    "gram": 340,
+                    "price": 799
+                },
+                {
+                    "id": 57,
+                    "img": "https://yobi.efood.dev/images/a-e5etqkBc2ownWyOe60uSGio7FifW-I0TuLqh9n-f0/pr:medium/NTc2NXU0eDVmZ3A5/aTd6bXE5bWlpajAy/aGE0Ng",
+                    "title": "Нью-Йорк",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, огурец, лосось холодного копчения, угорь, кунжут белый, соус унаги",
+                    "gram": 290,
+                    "price": 699
+                },
+                {
+                    "id": 58,
+                    "img": "https://yobi.efood.dev/images/yFl2ERahT8ZUI3jsqn3vb9lKjL5dNw37emxlaaTITkE/pr:medium/MGN0cHR4NGE5MnZy/bzBhYThkYWJ6ZWRw/cnRpaQ",
+                    "title": "Манхэттен",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, огурец, угорь, кунжут белый, соус унаги",
+                    "gram": 244,
+                    "price": 549
+                }
+            ]
+        },
+        {
+            "chapter": "Темпура",
+            "items": [
+                {
+                    "id": 59,
+                    "img": "https://yobi.efood.dev/images/upfdz5c8kPThS2PgmAibYnAV5s1RHAJU8-0NI5fXppQ/pr:large/Mm1uOTN1M3QwYmM1/bXBqY24yMmphdGxy/ZGVrNg",
+                    "title": "Горячий лосось в сырной тортилье",
+                    "description": "Рис, мицукан, торитилья, лосось, салат, кляр, сухари панировочные, соус терияки, соус спайс, лук зелёный, тобико, кунжут белый",
+                    "gram": 310,
+                    "price": 349
+                },
+                {
+                    "id": 60,
+                    "img": "https://yobi.efood.dev/images/Sj348LtZOCZJmLB_5oAl3svxpYtTYMppSqqVf5KjTh0/pr:large/eWF6NnJrZmdkZG84/eDBlamo4dGM0NG92/YXI2aQ",
+                    "title": "Пылкая креветка",
+                    "description": "Рис, мицукан, тортилья, сыр сливочный, креветка, салат, кляр, сухари панировочные, соус терияки, соус сырный хайнц, лук зелёный, лук кранч, начос, тобико",
+                    "gram": 320,
+                    "price": 299
+                },
+                {
+                    "id": 61,
+                    "img": "https://yobi.efood.dev/images/UUqB1ri_O6foG0Ky_PPOShTps7b6T-fOZpD3Uyz1BRA/pr:large/amxzYnB3YnM0Zjh2/cXdwYzd0bnpwenZt/MHpmcg",
+                    "title": "Цезарь темпура",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, филе куриное, приправа для курицы, огурец, майонез, чеснок, соевый соус, огурец консервированный, мука, яйцо, сухари панировочные",
+                    "gram": 240,
+                    "price": 199
+                },
+                {
+                    "id": 62,
+                    "img": "https://yobi.efood.dev/images/8WbjGbqAQ_YCCUSHmnBI0FueQjGY84hjktFaL6fKVsE/pr:large/Ync3bDVzeG9hNnI4/dHdiaWo0OTBxZnJt/NXhkOA",
+                    "title": " Эби темпура",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, сыр сливочный, креветка, майонез, паста кимчи, мука, яйцо, сухари панировочные",
+                    "gram": 190,
+                    "price": 249
+                },
+                {
+                    "id": 63,
+                    "img": "https://yobi.efood.dev/images/_d36hhn-1BF3_Q1AL86eQAPhe9ZpTFdrfaLwloctIGg/pr:large/YzdwYTlqdDhjeWM1/dWp0NDNnajRwanpi/aHc4cA",
+                    "title": "Сяке темпура",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, лосось, лосось холодного копчения, огурец, мука, яйцо, сухари панировочные",
+                    "gram": 190,
+                    "price": 299
+                },
+                {
+                    "id": 64,
+                    "img": "https://yobi.efood.dev/images/SF78OiavEsIDub2aNYb0540e3Ou-80GjrejopCa21l8/pr:large/NGVma3d3MTNpc2xu/ZjF0dXpxemliNmts/bXFuaA",
+                    "title": "Тортилья с угрем жареная",
+                    "description": "Тортилья, сыр сливочный, огурец, угорь, мука, яйцо, масло подсолнечное, сухари панировочные, соус унаги, кунжут чёрный",
+                    "gram": 185,
+                    "price": 399
+                },
+                {
+                    "id": 65,
+                    "img": "https://yobi.efood.dev/images/Gpm1fqb1LunYOhuRYn_jzWBxF4qNXZYqJ6zaNQ9PAkU/pr:large/MWY4NzdkMmd2ZTIw/bmowNnU5MTloaDgw/ZmI5OQ",
+                    "title": "Филадельфия темпура",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, лосось, снежный краб, мука, яйцо, сухари панировочные, сыр сливочный",
+                    "gram": 215,
+                    "price": 299
+                },
+                {
+                    "id": 66,
+                    "img": "https://yobi.efood.dev/images/ZRLWZ8FPhtJdo3EToCVkQ_n2WP3Sx56BACf_TM3EtHY/pr:large/M2xsdGNyMWI1ejlj/YXpkN2c5aTlvdmx1/NmRqNA",
+                    "title": "Доёби",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, креветка, авокадо, мука, яйцо, сухари панировочные, сыр сливочный, тобико",
+                    "gram": 230,
+                    "price": 349
+                },
+                {
+                    "id": 67,
+                    "img": "https://yobi.efood.dev/images/wfS_ynKgEu-s0KLxgTc-PJky9V4KcQr13pzfwHi1nZE/pr:large/MzdmcGhrbmRidHRh/cDI2MGc3a29sNnFk/YjM2aA",
+                    "title": "Унаги темпура",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, угорь, сыр сливочный, авокадо, имбирь маринованный, мука, яйцо, сухари панировочные, соус унаги, кунжут белый",
+                    "gram": 220,
+                    "price": 399
+                },
+                {
+                    "id": 68,
+                    "img": "https://yobi.efood.dev/images/TV-Y2PrZ-mZembpTVy041D9l8UrVTjbZUFuJmvP7TlM/pr:large/Y2dpaTM4MjZwdGx6/aHNicTF2eHR0aGVt/czBzOA",
+                    "title": "Джеки чан темпура",
+                    "description": "Рис, мицукан, сахар, комбу, соль, помидор, лук зелёный, соус унаги, яйцо, крахмал, мирин, мука, яйцо, сухари панировочные, лосось",
+                    "gram": 225,
+                    "price": 549
+                },
+                {
+                    "id": 69,
+                    "img": "https://yobi.efood.dev/images/l4CoCwG-__LQt1mV2AAymPWW1PNsgeMqdddWmZoyipE/pr:large/cTFjNWh4YzAzbzl0/MG5mc3Z0MGFsMjd4/bnMwaw",
+                    "title": "Темпура спайс",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, угорь, огурец, мука, яйцо, сухари панировочные, сыр сливочный, майонез, паста кимчи",
+                    "gram": 260,
+                    "price": 449
+                },
+                {
+                    "id": 70,
+                    "img": "https://yobi.efood.dev/images/ohgYhtYYi4hi4WImPmXvOeRTGQjm0pr5RHQLJRy3j-0/pr:large/N21mb2dna3V3bWc5/aXZzNjQ5bWEzNTA5/cXJ0cg",
+                    "title": "Цезарь BIG",
+                    "description": "Рис, мицукан, сахар, комбу, соль, тортилья, сыр сливочный, помидор, огурец, филе куриное, приправа для курицы, майонез, паста кимчи, чеснок, соевый соус, огурец консервированный, мука, яйцо, сухари панировочные",
+                    "gram": 340,
+                    "price": 299
+                }
+            ]
+        },
+        {
+            "chapter": "Запечённые",
+            "items": [
+                {
+                    "id": 71,
+                    "img": "https://yobi.efood.dev/images/GeqIGSDS7N0lLEWzSQ_EpitzMVTVtUBfyjfjvwc1GPE/pr:large/Z3B6M2FkZDJ0Y3c2/Y2F2eG0ydm05cWsz/eGY4Zw",
+                    "title": "Жареный лосось чиз",
+                    "description": "Лосось жареный, сыр гауда, соус спайс, такуан, соус васабико, соус унаги, стружка тунца, рис, нори, кляр, сухари",
+                    "gram": 245,
+                    "price": 349
+                },
+                {
+                    "id": 72,
+                    "img": "https://yobi.efood.dev/images/CUYIqchZ97s_bAdJarCbse11nm-OG9Pj7AskH0SEAo4/pr:large/ZnV1ZzBxZzhwaTBk/dTV5cnBvZGxmZXJr/dHY0OA",
+                    "title": "Цезарь с начос",
+                    "description": "Рис, мицукан, сахар, соль, комбу,сыр сливочный, нори, филе куриное, приправа для курицы, салат, мука, яйцо, сухари панировочные, сыр гауда, майонез, начос, огурец консервированный, соевый соус, чеснок",
+                    "gram": 320,
+                    "price": 249
+                },
+                {
+                    "id": 73,
+                    "img": "https://yobi.efood.dev/images/gbggpzBhaZiL7wwQngS1TkcGw17NvjvLYO68oURWNe4/pr:large/ZXNvMDY3NnFhbDNv/N212NjBpMjAzZnhl/NDE4NA",
+                    "title": "Румяный лосось",
+                    "description": "Лосось жареный, огурец, сыр гауда, майонез, кунжут белый, соус спайс, рис, нори",
+                    "gram": 215,
+                    "price": 349
+                },
+                {
+                    "id": 74,
+                    "img": "https://yobi.efood.dev/images/_OwGteMgDW8XMvEq0wbRdDtay-MyzzXZo99ao8_QJMM/pr:large/Nm11OGdsZWJmaHI1/OWIzZnExM2Z3Ym10/ZTBjNg",
+                    "title": "Жареный лосось с крабом",
+                    "description": "Лосось жареный, краб, майонез, кранч-лук, соус унаги, рис, нори",
+                    "gram": 195,
+                    "price": 349
+                },
+                {
+                    "id": 75,
+                    "img": "https://yobi.efood.dev/images/p28UImKEaU84v9Di8u6QTLj2UD9hFORUpOz1FY1ZR1k/pr:large/bzlpNGIyMjJta2Zn/b2hjNWY2YW9udThm/Ym96OQ",
+                    "title": "Перчик лосося",
+                    "description": "Лосось жареный, болгарский перец, лук зелёный, майонез, сыр сливочный, рис, нори",
+                    "gram": 225,
+                    "price": 349
+                },
+                {
+                    "id": 76,
+                    "img": "https://yobi.efood.dev/images/1_2hIYoEOyirZysFQrHuT8d0VLodkoLAJvdRvs3-NNU/pr:large/NjdjbGpiMHhpNWd3/bDR2OHMyMXFoYjls/cGl3ag",
+                    "title": "Запечённый с креветкой и угрём",
+                    "description": "Креветка, угорь, сыр сливочный, огурец, сыр гауда, майонез, соус спайс, соус унаги, кунжут чёрный, кунжут белый, рис, нори",
+                    "gram": 220,
+                    "price": 299
+                },
+                {
+                    "id": 77,
+                    "img": "https://yobi.efood.dev/images/0_mh12VXc3X_SHTN7azpWGt8odvdc_5vI73vN9ZEubI/pr:large/eGpwbzMxcXN2OGUw/cmliOThodDF6Znpw/bmx4eQ",
+                    "title": "Запечённая филадельфия с лососем и крабом",
+                    "description": "Лосось, краб, майонез, лосось, тамаго, куркума, салат, сыр гауда, майонез, соус свитчили, тобико, кунжут чёрный, кунжут белый, рис, нори",
+                    "gram": 240,
+                    "price": 249
+                },
+                {
+                    "id": 78,
+                    "img": "https://yobi.efood.dev/images/FmkLe_QSbwpjMwDemlBsAy4Qj4gWxDZc65WikCecMR4/pr:large/MWd2bTZ1MmRicDR4/ZjFqdG5oYnVnYjhr/emUzNg",
+                    "title": "Запечённый Эби спайс",
+                    "description": "Рис, мицукан, сахар, соль, комбу, сыр сливочный, креветка, мука, яйцо, нори, салат, паста кимчи, лук зеленый, перец чили, майонез, сыр гауда",
+                    "gram": 260,
+                    "price": 299
+                },
+                {
+                    "id": 79,
+                    "img": "https://yobi.efood.dev/images/FcIvVhDmaP_vJFvFpTjC9Ml96qtR10KVGavwHwQc1E4/pr:large/cmM0czR0cnpxdGFn/M2N6NXlzNGltMmc1/cWlqag",
+                    "title": "Якимашита",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, авокадо, креветка, мука, яйцо, соль, майонез, паста кимчи, сыр гауда, сухари панировочные",
+                    "gram": 230,
+                    "price": 299
+                },
+                {
+                    "id": 80,
+                    "img": "https://yobi.efood.dev/images/MreMgfPTE4KOsr9VOA3hMBw-8ZrkGiFdXyqPJCEbLNY/pr:large/bzVlbzZzbDVyb2J1/cmVldzN1NmZ1cGI1/aTMwYQ",
+                    "title": "Запечённый с лососем",
+                    "description": "Рис, мицукан ,сахар, комбу, соль, нори, лосось, сыр сливочный, огурец, сыр гауда, майонез",
+                    "gram": 190,
+                    "price": 299
+                },
+                {
+                    "id": 81,
+                    "img": "https://yobi.efood.dev/images/m4CkKKSccIA3TF9Acm_8JDKcZfPruk5DQ-onbskY6Jg/pr:large/dDgxNnR0amM1aWg5/dHIyZDIwZmUybGJv/aXA5YQ",
+                    "title": "Запечённый с курицей",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, филе куриное, приправа для курицы, помидор, сыр сливочный, сыр гауда, майонез",
+                    "gram": 220,
+                    "price": 199
+                },
+                {
+                    "id": 82,
+                    "img": "https://yobi.efood.dev/images/DQOwuborTe5hGWS7aE6zcSAORpkdk2DSs9_C_sEQPKQ/pr:large/MzQ2Nzg3YW1qejVt/dGkyNXNvcXAzbHg2/bWw1aQ",
+                    "title": "Кампай",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, помидор, филе куриное, приправа для курицы, мука, яйцо, соль, сухари панировочные, майонез, паста кимчи, сыр гауда",
+                    "gram": 230,
+                    "price": 199
+                },
+                {
+                    "id": 83,
+                    "img": "https://yobi.efood.dev/images/OwtqeuZ65PxMFiXKVZ7j6fqacQA3nt2FyjFTzqR8N90/pr:large/aGdmejI0NWI0NDM1/c25mcGRsZ2x6enQy/bzV0bw",
+                    "title": "Запечённый с креветкой",
+                    "description": "Рис, мицукан, сахар, комбу, соль, нори, креветка, огурец, кунжут белый, сыр гауда, майонез",
+                    "gram": 215,
+                    "price": 249
+                },
+                {
+                    "id": 84,
+                    "img": "https://yobi.efood.dev/images/Uv3VvaYv0WeZtLc0NFfa4BcKBlfd7bPZvo8xk2_G-hM/pr:large/dmVkYm9hazFmM3hx/MHhscGI1MjB6NGs5/aDZlZw",
+                    "title": "Сяке Терияки",
+                    "description": "Рис, мицукан, соль, сахар, комбу, сыр сливочный, нори, лосось, мука, яйцо,сухари панировочные, салат, тобико, сыр гауда, майонез, соус терияки, кранч, кунжут белый, начос.",
+                    "gram": 280,
+                    "price": 399
+                },
+                {
+                    "id": 85,
+                    "img": "https://yobi.efood.dev/images/xX2jCcoBG1mZgTF-O7EUPhFrr4RtR62LAPW8-YTSqQc/pr:large/MDJ5aGhubWd4YWU2/eDFkbnlmeml0enk2/cDIyeg",
+                    "title": "Унаги Чуканаги",
+                    "description": "Рис, мицукан, сахар, соль, комбу, яйцо, крахмал, мирин, нори, сыр сливочный, угорь, салат, сыр гауда, майонез, соус унаги, чука, кунжут чёрный.",
+                    "gram": 310,
+                    "price": 449
+                },
+                {
+                    "id": 86,
+                    "img": "https://yobi.efood.dev/images/mq9VVhzZXwWgdLSS9sXiKgRtQLoKQIDM8vPreW6_9Fg/pr:large/ZTR1cWxiOWRkZGY0/NXZyZ3NucGsyNmVt/cDdlOA",
+                    "title": "Пикантный лосось",
+                    "description": "Лосось, огурец, майонез, сыр сливочный, соус терияки, тобико, рис, нори",
+                    "gram": 240,
+                    "price": 299
+                }
+            ]
+        },
+        {
+            "chapter": "Горячее и салаты",
+            "items": [
+                {
+                    "id": 87,
+                    "img": "https://yobi.efood.dev/images/q_H6uSehsG-GKrUlnHJ2MilZQmNflv4ns9pRJ-XnaIk/pr:large/MnlmbG1hNXNpZjB4/aTl0dmFtbGpwbDlq/cTN2bg",
+                    "title": "Мини Дамплинги",
+                    "description": "Мини дамплинги со свининой, соус свитчили",
+                    "gram": 180,
+                    "price": 470
+                },
+                {
+                    "id": 88,
+                    "img": "https://yobi.efood.dev/images/T7w7cOrhFOhCznT57CFJU-ZSbjPxHgoLVTFfAAhe1yA/pr:large/enhmeGVoZjRxaHc1/YXpwZmgxeHVta2Nr/NXF3bQ",
+                    "title": "Креветки Темпура",
+                    "description": "Креветка, яйцо, мука, соль, сухари панировочные , паста кимчи, майонез, гауда, лук зелёный",
+                    "gram": 115,
+                    "price": 399
+                },
+                {
+                    "id": 89,
+                    "img": "https://yobi.efood.dev/images/3CR86ZJ8iDtDUXwdLD2qXQQokFkwJ6m111kib4KB2uU/pr:large/aWpnOW5ud2xpNnJq/d2phcGkxc2Y5OXhj/bG45Ng",
+                    "title": "Лосось темпура",
+                    "description": "Лосось, яйцо, мука, соль, сухари панировочные, кунжут чёрный, майонез, паста кимчи, соус терияки",
+                    "gram": 120,
+                    "price": 449
+                }
+            ]
+        },
+        {
+            "chapter": "Cоусы",
+            "items": [
+                {
+                    "id": 90,
+                    "img": "https://yobi.efood.dev/images/fSzxC3pOuZugf_cw1GShdaKessAL7CH00d-fiVcVLHE/pr:large/ZnR4Y3YyMzh5bjRj/dWkzZmQwZm14cWc1/b3VkeA",
+                    "title": "Соус Лава",
+                    "description": "Кальмар, тобико, майонез, сыр сливочный",
+                    "gram": 30,
+                    "price": 90
+                },
+                {
+                    "id": 91,
+                    "img": "https://yobi.efood.dev/images/VWV9NZxjhG5Scl61JN-jRKWfOSYCW6akO1V_4xcye68/pr:large/Z3Zrb2I0c3IwMXFh/ZDN1MjRkd2dqM2hi/MnJkNw",
+                    "title": "Соус Ореховый",
+                    "description": "Соус кунжутный.",
+                    "gram": 30,
+                    "price": 70
+                },
+                {
+                    "id": 92,
+                    "img": "https://yobi.efood.dev/images/AbPiDColgsq-2eHI9nbOgH7Mgzh5jWIS07cOkEU4HpA/pr:large/MW0zeDdxOGV4ZWMx/cnVqNXRhd2d3YTg2/ZmJoNQ",
+                    "title": "Соус Спайс",
+                    "description": "Майонез, паста кимчиМайонез, паста кимчи",
+                    "gram": 30,
+                    "price": 50
+                },
+                {
+                    "id": 93,
+                    "img": "https://yobi.efood.dev/images/ewzfLrIGw_r7sG_R7vEb7f6U8Jx_a5HHM-I92iibhSU/pr:large/aTQ5N3FneGJwbG44/Zjdja3o2MzBlc3Y0/aGJweg",
+                    "title": "Соус Терияки",
+                    "description": "Соус терияки",
+                    "gram": 30,
+                    "price": 50
+                },
+                {
+                    "id": 94,
+                    "img": "https://yobi.efood.dev/images/C92c_pgp5wpUoDsJ3-LHamf8MMUfMGUdOZ8DNJ2pvzo/pr:large/anZvNm1tbjFxdmJ4/NXY1Mjc3Z2FsMmto/YW9vdQ",
+                    "title": "Соус Унаги",
+                    "description": "Соус унаги",
+                    "gram": 30,
+                    "price": 50
+                },
+                {
+                    "id": 95,
+                    "img": "https://yobi.efood.dev/images/Yi7Q_dz1EQtjLCIw8ft5_d3Zc5I8EvjjmyQBULoqxR0/pr:large/dWg0cmx1M3N0d2s5/bjlhNnVobGx4NXc2/Zmg0NA",
+                    "title": "Соус Цезарь",
+                    "description": "Майонез, чеснок, соевый соус, огурец консервированный",
+                    "gram": 30,
+                    "price": 40
+                }
+            ]
+        },
+        {
+            "chapter": "Напитки и десерты",
+            "items": [
+                {
+                    "id": 96,
+                    "img": "https://yobi.efood.dev/images/1M9kdTJS6Z3wDccLn4uH2YK_Tc04YJqNOWHI7hYN0kQ/pr:large/OHBuYnhub205amdw/a2Nlc3p0MG9pYXdu/dXh5NA",
+                    "title": "Сладкий ролл в блинчике",
+                    "description": "Яйцо, крахмал, мирин, сыр сливочный, сахарная пудра, киви, банан, груша, топпинг шоколадный.",
+                    "gram": 210,
+                    "price": 279
+                },
+                {
+                    "id": 97,
+                    "img": "https://yobi.efood.dev/images/bUiUfLex5rBjfMJUhwGtF0VymYEF6qxT03EOiMyMzIE/pr:large/czQwZjNteXJmMWR3/MDQydWF6bTZtdmhz/NjJhMA",
+                    "title": "Сладкий шоколадный ролл",
+                    "description": "Яйцо, какао, киви, банан, груша, топпинг шоколадный, сыр сливочный",
+                    "gram": 210,
+                    "price": 279
+                },
+                {
+                    "id": 98,
+                    "img": "https://yobi.efood.dev/images/4uzB62Xmj3AVA0eCbUnOSWtab74Ckz8O3ltEmsm9DWk/pr:large/azhyeDdzcGZmOWVi/bGk0bjV6cTJ6bGhu/NnlmcQ",
+                    "title": "Морс Вишня",
+                    "description": "Напиток безалкогольный морсовый Вишня 'ЖиваЯгода'",
+                    "gram": 450,
+                    "price": 150
+                }
+            ]
+        }
+    ]
+}

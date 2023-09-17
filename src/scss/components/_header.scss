@@ -1,0 +1,25 @@
+.header {
+    padding: 25px 0;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__cart {
+    padding: 15px 30px;
+    background-color: var(--accent);
+    color: #fff;
+    border-radius: 30px;
+    font-weight: 500;
+    font-size: 20px;
+
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: #db043a;
+        color: #fff;
+    }
+}
