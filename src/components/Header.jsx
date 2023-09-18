@@ -14,7 +14,6 @@ const Header = () => {
                         <h1>Бобидобоби</h1>
                         <p>Sishi & Rolls</p>
                     </Link>
-                    <Link className="header__cart">Корзина</Link>
                 </div>
             </div>
         </header>
