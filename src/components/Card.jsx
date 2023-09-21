@@ -1,7 +1,24 @@
 import React from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { addItem, selectCartSliceItemId } from '../redux/slices/cartSlice';
 
-const Card = ({ img, title, description, gram, price }) => {
-    console.log(title);
+const Card = ({ id, img, title, description, gram, price }) => {
+    const dispatch = useDispatch();
+    const cartItem = useSelector(selectCartSliceItemId(id));
+
+    const addedCount = cartItem ? cartItem.count : 0;
+
+    const onClickAdd = () => {
+        const item = {
+            id,
+            title,
+            price,
+            gram,
+            img,
+        };
+        dispatch(addItem(item));
+    };
+
     return (
         <article className="card">
             <img
@@ -17,7 +34,12 @@ const Card = ({ img, title, description, gram, price }) => {
             <p className="card__description">{description}</p>
             <div className="card__wrapper">
                 <p>{price} ₽</p>
-                <button className="content__button">Выбрать</button>
+                <button
+                    onClick={onClickAdd}
+                    className="transparent-btn"
+                >
+                    Выбрать {addedCount > 0 && <span>{addedCount}</span>}
+                </button>
             </div>
         </article>
     );

@@ -1,7 +1,16 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { useSelector } from 'react-redux';
+import Search from './Search';
+import { selectCartSlice } from '../redux/slices/cartSlice';
 
 const Menu = () => {
+    const { items, totalPrice } = useSelector(selectCartSlice);
+
+    const totalCount = items.reduce((sum, item) => {
+        return item.count + sum;
+    }, 0);
+
     return (
         <section>
             <div className="container">
@@ -17,16 +26,20 @@ const Menu = () => {
                         <li>Напитки и десерты</li>
                     </ul>
                     <ul className="menu__delivery">
-                        <li>Акции</li>
-                        <li>Доставка и оплата</li>
+                        <li>
+                            <Link to="stock">Акции</Link>
+                        </li>
+                        <li>
+                            <Link to="delivery">Доставка и оплата</Link>
+                        </li>
                     </ul>
-                    <button className="menu__search">
-                        <img
-                            src="img/icons/search.svg"
-                            alt="поиск"
-                        />
-                    </button>
-                    <Link className="header__cart">Корзина</Link>
+                    <Search />
+                    <Link
+                        to="cart"
+                        className="header__cart"
+                    >
+                        {totalCount}/{totalPrice}руб.
+                    </Link>
                 </div>
             </div>
         </section>

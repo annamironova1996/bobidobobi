@@ -36,14 +36,9 @@
     li:active {
         color: var(--accent);
     }
-}
-
-.menu__search {
-    background-color: gray;
-    border-radius: 50px;
-    padding: 10px;
-    img {
-        width: 20px;
-        height: 20px;
+    a {
+        font-size: 17px;
+        font-weight: 500;
+        color: #000;
     }
 }

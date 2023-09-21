@@ -1,55 +1,71 @@
 import React from 'react';
-import { useState, useEffect } from 'react';
-import axios from 'axios';
-
+import { useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
+import {
+    fetchCards,
+    selectCardSliceItems,
+    selectCardSliceStatus,
+} from '../redux/slices/cardsSlice';
 import Card from '../components/Card';
+import SimpleSwiper from '../components/SimpleSwiper';
+import Menu from '../components/Menu';
+
+export const HomeContext = React.createContext();
 
 const Home = () => {
-    const [cards, setCards] = useState([]);
-    useEffect(() => {
-        async function fetchData() {
-            try {
-                const cardAll = await axios.get(
-                    'http://localhost:3005/products'
-                );
+    const dispatch = useDispatch();
+    const cards = useSelector(selectCardSliceItems);
+    const status = useSelector(selectCardSliceStatus);
 
-                setCards(cardAll.data);
-            } catch (error) {
-                console.log('ошибка при запросе данных');
-            }
-        }
+    useEffect(() => {
+        const fetchData = () => {
+            dispatch(fetchCards());
+        };
         fetchData();
+        // eslint-disable-next-line
     }, []);
 
     return (
-        <main>
-            <section className="content">
-                <div className="container">
-                    {cards.map((card, index) => {
-                        return (
-                            <>
-                                <h2
-                                    className="content__title"
-                                    key={index}
-                                >
-                                    {card.chapter}
-                                </h2>
-                                <div className="content__wrapper">
-                                    {card?.items?.map((item) => {
-                                        return (
-                                            <Card
-                                                key={item.id}
-                                                {...item}
-                                            />
-                                        );
-                                    })}
-                                </div>
-                            </>
-                        );
-                    })}
-                </div>
-            </section>
-        </main>
+        <HomeContext.Provider value={{ cards }}>
+            <main>
+                <Menu />
+
+                <SimpleSwiper />
+                <section className="content">
+                    <div className="container">
+                        {status === 'error' ? (
+                            <div>
+                                Произошла ошибка, вернитесь к нам через пару
+                                минут, мы уже все исправляем
+                            </div>
+                        ) : (
+                            cards.map((card, index) => {
+                                return (
+                                    <>
+                                        <h2
+                                            className="content__title"
+                                            key={index}
+                                        >
+                                            {card.chapter}
+                                        </h2>
+                                        <div className="content__wrapper">
+                                            {card?.items?.map((item) => {
+                                                return (
+                                                    <Card
+                                                        key={item.id}
+                                                        {...item}
+                                                    />
+                                                );
+                                            })}
+                                        </div>
+                                    </>
+                                );
+                            })
+                        )}
+                    </div>
+                </section>
+            </main>
+        </HomeContext.Provider>
     );
 };
 
